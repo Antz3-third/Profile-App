@@ -15,7 +15,7 @@ const App = () => {
       <StatusBar style="light" />
       <Stack.Navigator
         screenOptions={{
-          headerTitleAlign: "center",
+          headerTitleAlign: "right",
         }}
         initialRouteName="Home"
       >
