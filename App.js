@@ -17,7 +17,7 @@ const App = () => {
         screenOptions={{
           headerTitleAlign: "right",
         }}
-        initialRouteName="Home"
+        initialRouteName="Details"
       >
         <Stack.Screen
           name="Home"
